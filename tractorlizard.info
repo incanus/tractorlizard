@@ -1,0 +1,3 @@
+name = TractorLizard
+description = Auto-posts TractorLizard random business plans to a Twitter account.
+core = 6.x
